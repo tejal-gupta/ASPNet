@@ -1,0 +1,6 @@
+D:\C#\WebApp\Books\Books.Entities\bin\Debug\Books.Entities.dll
+D:\C#\WebApp\Books\Books.Entities\bin\Debug\Books.Entities.pdb
+D:\C#\WebApp\Books\Books.Entities\obj\Debug\Books.Entities.csprojAssemblyReference.cache
+D:\C#\WebApp\Books\Books.Entities\obj\Debug\Books.Entities.csproj.CoreCompileInputs.cache
+D:\C#\WebApp\Books\Books.Entities\obj\Debug\Books.Entities.dll
+D:\C#\WebApp\Books\Books.Entities\obj\Debug\Books.Entities.pdb
